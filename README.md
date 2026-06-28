@@ -1,13 +1,10 @@
 # Almeida & Costa Advocacia
 
-Site institucional estático para um escritório de advocacia. O projeto foi feito para ficar pronto em repositório e ser publicado depois, quando os dados finais do escritório forem definidos.
+Site institucional estático para um escritório de advocacia, pronto para ficar guardado no GitHub e ser publicado depois.
 
 ## Arquivos
 
-- `index.html`: estrutura da página.
-- `styles.css`: visual responsivo.
-- `script.js`: menu mobile, ano automático e preparação da mensagem do formulário.
-- `assets/hero-escritorio-advocacia.png`: imagem gerada para o hero.
+- `index.html`: página completa com HTML, CSS, JavaScript e imagem embutidos.
 
 ## Como abrir
 
