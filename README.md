@@ -2,9 +2,12 @@
 
 Site institucional estático para um escritório de advocacia, pronto para ficar guardado no GitHub e ser publicado depois.
 
-## Arquivos
+## Estrutura
 
-- `index.html`: página completa com HTML, CSS, JavaScript e imagem embutidos.
+- `index.html`: estrutura da página.
+- `styles.css`: estilos, layout responsivo e identidade visual.
+- `script.js`: menu mobile, ano automático e preparação da mensagem do formulário.
+- `assets/hero-escritorio-advocacia.svg`: imagem principal do site.
 
 ## Como abrir
 
